@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blazorazure", "blazorazure\blazorazure.csproj", "{DDBB70EE-5FCC-4CED-86A9-7CE883E67072}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDBB70EE-5FCC-4CED-86A9-7CE883E67072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBB70EE-5FCC-4CED-86A9-7CE883E67072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBB70EE-5FCC-4CED-86A9-7CE883E67072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBB70EE-5FCC-4CED-86A9-7CE883E67072}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21EF3F94-B2B4-446E-917E-A756F155776C}
+	EndGlobalSection
+EndGlobal

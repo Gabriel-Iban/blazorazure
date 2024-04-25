@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "Registro de la aplicación: Nombre para mostrar - en registrar una aplicación, Inquilino: Directorio predeterminado (gabrielibancfoutlook.onmicrosoft.com - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
